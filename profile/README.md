@@ -1,7 +1,8 @@
-<center>
-  <h1>UFORG</h1>
+<h1 align="center">UFORG</h1>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/uforg/.github/refs/heads/main/assets/uforg-transparent.png" alt="UFORG Logo" width="150">
-</center>
+</p>
 
 Welcome to **UFORG**! 🚀
 
